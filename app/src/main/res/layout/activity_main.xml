@@ -55,8 +55,4 @@
         android:text="Coroutines"
         android:layout_marginTop="50dp"/>
 
-
-
-
-
 </LinearLayout>
